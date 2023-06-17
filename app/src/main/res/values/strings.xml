@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">staff</string>
+	<string name="btn_tambah">Tambah</string>
+    <string name="tv_nama">Nama</string>
+    <string name="space">:</string>
+    <string name="tv_nama_pegawai">Nama Pegawai</string>
+    <string name="tv_no_hp">No. HP</string>
+    <string name="tv_phone">085123456789</string>
+    <string name="tv_alamat">Alamat</string>
+    <string name="tv_address">Suhat</string>
+    <string name="btn_hapus">Hapus</string>
+    <string name="et_nama_staff">Nama Staff</string>
+    <string name="et_phone">Phone</string>
+    <string name="et_address">Alamat</string>
+</resources>
