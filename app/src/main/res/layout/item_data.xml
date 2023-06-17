@@ -80,7 +80,7 @@
                 android:layout_height="wrap_content"
                 android:text="@string/btn_hapus"
                 android:textColor="@android:color/white"
-                android:background="@android:color/holo_red_dark"
+                android:backgroundTint="@android:color/holo_red_dark"
                 android:id="@+id/btnHapus"/>
         </LinearLayout>
     </androidx.cardview.widget.CardView>
